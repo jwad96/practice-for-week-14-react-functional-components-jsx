@@ -1,0 +1,19 @@
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.type {
+  background-color: red;
+  color: white;
+  margin: 0 5px;
+  padding: 0 2px;
+}
+
+.move {
+  background-color: white;
+  color: red;
+  margin: 0 5px;
+  padding: 0 2px;
+}

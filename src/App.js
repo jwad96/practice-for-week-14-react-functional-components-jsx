@@ -1,8 +1,13 @@
+import Showcase from "./components/Showcase";
+import "./App.css";
+
 function App() {
   return (
-    <div>
-      <h1>App Component</h1>
-    </div>
+    <>
+      <div className="background">
+        <Showcase />
+      </div>
+    </>
   );
 }
 
